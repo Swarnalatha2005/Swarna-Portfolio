@@ -1,23 +1,23 @@
 function AWS() {
-    window.location.href = "./photos/AWS.jpg";
+    window.open("photos/AWS.jpg", "_blank");
 }
 
 function CYNOSURE() {
-    window.location.href = "./photos/CYNOSURE.jpg";
+    window.open("photos/CYNOSURE.jpg", "_blank");
 }
 
 function CODZEN() {
-    window.location.href = "./photos/CODZEN.jpg";
+    window.open("photos/CODZEN.jpg", "_blank");
 }
 
 function DEVOPS() {
-    window.location.href = "./photos/DEVOPS.jpg";
+    window.open("photos/DEVOPS.jpg", "_blank");
 }
 
 function MERIT() {
-    window.location.href = "./photos/MERIT.jpg";
+    window.open("photos/MERIT.jpg", "_blank");
 }
 
 function WADHWANI() {
-    window.location.href = "./photos/WADHWANI.png";
+    window.open("photos/WADHWANI.png", "_blank");
 }
